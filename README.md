@@ -1,6 +1,6 @@
 # Sales-and-Financial-Analytics-of-Atliq-Hardware-Excel
 
-#Sales Report:
+Sales Report:
 Project Goals:
 
 Customer Performance Report: Created a detailed report to assess customer performance.
@@ -11,7 +11,7 @@ Importance of Sales Data Analysis: Unveiling sales patterns, tracking essential 
 
 Reports' Role: Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
 
-#Finance Report:
+Finance Report:
 Project Goals:
 
 Profit and Loss (P&L) Reports: Created P&L reports by fiscal years and P&L reports by fiscal months.
@@ -22,7 +22,7 @@ Importance of Finance Data Analysis: Benchmarking against industry peers, histor
 
 Reports' Role: Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
-#Technical Skills:
+Technical Skills:
 Proficient in ETL methodology (Extract, Transform, Load).
 Skillful in creating date tables using Power Query.
 Capable of deriving fiscal months and quarters.
